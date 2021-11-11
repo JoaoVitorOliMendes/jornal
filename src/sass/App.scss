@@ -1,0 +1,18 @@
+@import './SassVariables.scss';
+
+.main {
+    height: 100vh;
+}
+
+.economiaMain {
+    background-color: $greenBackground;
+}
+
+.politicaMain {
+    background-color: $yellowBackground;
+}
+
+.saudeMain {
+    background-color: $redBackground;
+}
+

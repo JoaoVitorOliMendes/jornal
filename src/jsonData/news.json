@@ -1,0 +1,55 @@
+{
+    "news": {
+        "economy": [
+            {
+                "title": "Vendas do comércio caem pelo 2º mês seguido e setor fecha 3º trimestre no vermelho",
+                "article": "As vendas do comércio varejista caíram 1,3% em setembro, na comparação com agosto, na segunda retração mensal consecutiva, fechando o 3º trimestre no vermelho, segundo dados divulgados nesta quinta-feira (11) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Na comparação com setembro do ano passado, a queda foi de 5,5% – também a segunda seguida. O setor fechou o 3º trimestre com queda de 0,4% na comparação com os 3 meses anteriores, após ter registrado crescimento de 2,5% no 2º trimestre.",
+                "img": "https://s2.glbimg.com/2wuZNf3_W0jvDHKSzdwOSGAtqOM=/0x0:1480x840/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/U/i/Lu4BomTQWMOd3FJj5iDw/fojho-resultado-trimestral-do-com-rcio-varejista-brasileiro-nbsp-.png"
+            },
+            {
+                "title": "Azul tem prejuízo líquido de R$ 2,2 bi no 3º tri, alta de 79% no ano",
+                "article": "A aérea Azul registrou no terceiro trimestre de 2021 um prejuízo líquido de R$ 2,196 bilhões, um crescimento de 79% na comparação com o prejuízo de R$ 1,2 bilhão de um ano antes. Os dados, divulgados nesta quinta-feira (11) na Comissão de Valores Mobiliários, refletem a persistência da pandemia sobre os resultados e foram influenciados, entre outros fatores, pelo câmbio e aumento de custos com a retomada da operação. No total, a Azul transportou 6,418 milhões de passageiros pagantes no terceiro trimestre, alta de 43% na comparação com o segundo trimestre deste ano, mas ainda 13% abaixo dos níveis pré-pandemia (ou seja, do terceiro trimestre de 2019).",
+                "img": "https://s2.glbimg.com/MbrcPIcVHDSJ-SmUcXu8hNENGgI=/0x0:3500x2129/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/M/N/dAnzCCSp6Ta0EPYDr6YA/2019-03-22t142550z-286826575-rc151dd21cf0-rtrmadp-3-brazil-airlines.jpg"
+            },
+            {
+                "title": "Dólar opera em queda, com expectativas de aperto monetário ",
+                "article": "O dólar opera em queda nesta quinta-feira (11), em meio a expectativas crescentes de que o Banco Central endurecerá o ritmo de seu aperto monetário devido às pressões inflacionárias domésticas. Investidores também ficavam de olho no noticiário em torno da PEC dos Precatórios. Às 9h32, a moeda norte-americana caía 0,98%, cotada a R$ 5,4457. Veja mais cotações. Na quarta-feira, o dólar fechou praticamente estável (+0,05%), a R$ 5,4996. Com o resultado, passou a acumular queda de 2,62% no mês. No ano, porém, ainda tem alta de 6,02%.",
+                "img": "https://s2.glbimg.com/D6j0aqYb1PVi5JC3KFLsBG2oro8=/0x0:3500x2339/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/A/x/p1gWaDR6OJA5yQgC4kLg/2017-06-13t153358z-1713341281-rc1e18fa6120-rtrmadp-3-global-markets.jpg"
+            }
+        ],
+        "politica": [
+            {
+                "title": "Oposição no Senado quer reduzir furo no teto de gastos gerado pela PEC dos Precatórios",
+                "article": "Os senadores independentes e de oposição até admitem aprovar a PEC dos Precatórios, mas querem mudar a proposta, reduzindo, por exemplo, o tamanho do furo no teto dos gastos públicos previsto na medida aprovada pela Câmara dos Deputados. Segundo senadores ouvidos pelo blog, a ideia é reduzir de R$ 91 bilhões para algo na casa de R$ 70 bilhões o espaço fiscal que a PEC abriria no Orçamento da União de 2022. A PEC dos Precatórios será relatada no Senado pelo líder do governo na Casa, senador Fernando Bezerra (MDB-PE), que já está conversando com seus colegas para negociar a aprovação da medida no máximo até o início de dezembro, a tempo de pagar no último mês do ano a primeira parcela de R$ 400 para os beneficiários do Auxílio Brasil.",
+                "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs1.eestatic.com%2F2019%2F12%2F02%2Fespana%2Fpolitica%2FViolencia_machista-Violencia_de_genero-VOX-Senado-Politica_448966886_139474823_1706x960.jpg&f=1&nofb=1"
+            },
+            {
+                "title": "Planalto faz ofensiva por insatisfeitos no Senado e articula para garantir 50 votos na PEC dos Precatórios ",
+                "article": "Ministros do governo têm procurado nos últimos dias senadores 'insatisfeitos' da base aliada para garantir uma margem de 50 votos favoráveis à PEC dos Precatórios. São necessários pelo menos 41 votos, em dois turnos, para aprovar a proposta. Ao blog, ministros do Planalto afirmam que a estratégia do governo era levar a proposta diretamente ao plenário, para ganhar tempo, mas o texto que foi aprovado na Câmara vai ser votado, antes, pela Comissão de Constituição e Justiça (CCJ).",
+                "img": "https://s2.glbimg.com/yn-EDrmRMz9GUpkZPkn5eF3tXn4=/0x0:799x533/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/S/O/pBwDrXR42tqsOdNfBvOQ/51313074777-e1d058af45-c.jpg"
+            },
+            {
+                "title": "Bolsonaro inicia na sexta roteiro por três países árabes em busca de investimentos, diz Itamaraty ",
+                "article": "O presidente Jair Bolsonaro embarca na próxima sexta-feira (13) para uma viagem de uma semana por Emirados Árabes Unidos (Dubai), Bahrein (Manama) e Catar (Doha), com foco na busca de investimentos dos países do Golfo Pérsico. Segundo o Ministério das Relações Exteriores (MRE), a previsão de agenda do presidente, que deve viajar acompanhado da primeira-dama Michelle Bolsonaro, contempla reuniões com governantes locais, encontros com empresários e visitas a feiras e exposições.",
+                "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-8V5mOtdNCe4%2FXbXIUfhpMUI%2FAAAAAAABhks%2F1TXFVL1L95o1xNHrKc1Ey0pD5AHNvmGyACLcBGAsYHQ%2Fs1600%2Fbolsonaro%252Bcamisa%252Bflamengo%252Bprincipe%252Barabe.jpg&f=1&nofb=1"
+            }
+        ],
+        "saude": [
+            {
+                "title": "Epidemia atrasou vacinação de doenças 'evitáveis', alerta Organização Pan-Americana da Saúde",
+                "article": "A região das Américas corre um alto risco de surtos de doenças que podem ser evitadas, por conta da falta de vacinação de rotina, que se tornou menos frequentes com a pandemia. O alerta foi feito nesta quarta-feira (10) pela Organização Pan-Americana da Saúde (Opas). O continente americano tornou-se um líder global no controle de patologias como a varíola, poliomielite, rubéola, sarampo e tétano, graças ao Programa Ampliado de Imunização da organização, criado em 1977. Com a chegada da epidemia de Covid-19, entretanto, foram constatadas 'reduções significativas' nas taxas de imunização, de acordo com a Opas. Dois anos depois do início da pandemia e com o avanço das campanhas de vacinação, o relaxamento ou a interrupção das medidas de saúde pública para conter a disseminação da Covid-19, 'resultarão previsivelmente' em um aumento de muitas dessas doenças, de acordo com especialistas da organização.",
+                "img": "https://s2.glbimg.com/phJOtDhrgw3VacvkAmBqnRnzT78=/0x0:1000x1000/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/y/U/naFPT3Rbi5nGJEaxqxZQ/close-up-boy-getting-vaccine.jpg"
+            },
+            {
+                "title": "Covid: pessoas resistentes à doenca inspiram nova tática para vacinas",
+                "article": "Entender como algumas pessoas resistem naturalmente à infecção por Covid-19, apesar de estarem claramente expostas ao vírus, pode levar a vacinas melhores, afirmam pesquisadores. Uma equipe da University College London (UCL), no Reino Unido, diz que alguns indivíduos já apresentavam um grau de imunidade à covid antes do início da pandemia. Isso provavelmente é resultado do seu corpo ter aprendido a combater vírus relacionados àquele que varreu o mundo. Atualizar as vacinas para copiar esta proteção pode tornar os imunizantes ainda mais eficazes, segundo a equipe.",
+                "img": "https://s2.glbimg.com/yn-EDrmRMz9GUpkZPkn5eF3tXn4=/0x0:799x533/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/S/O/pBwDrXR42tqsOdNfBvOQ/51313074777-e1d058af45-c.jpg"
+            },
+            {
+                "title": "Não haverá longevidade ativa sem um planeta saudável",
+                "article": "A COP26, a conferência das Nações Unidas sobre mudanças climáticas, acaba nesta quinta. Na terça, assisti a debate de um fórum paralelo sobre longevidade, que também estava sendo realizado em Glasgow (Escócia), sede do evento. O recado dos participantes foi claro: não dá para pensar em longevidade ativa sem um planeta saudável. Aliás, costumamos nos referir à natureza como algo externo – o conjunto de florestas, rios e animais – quando somos parte dela. Portanto, com a expectativa de a população mundial bater a casa dos 10 bilhões de seres humanos em 2050, está muito claro que as pessoas se tornarão cada vez mais vulneráveis diante de eventos climáticos violentos. ",
+                "img": "https://s2.glbimg.com/389fmBajWkNkXUF3Qx_Ap3UrBX0=/0x0:1280x720/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/j/r/J6sRLFRpm0bupv9nkAyg/carolbraynelongevidadeplanetasaudavel.jpg"
+            }
+        ]
+    }
+}
